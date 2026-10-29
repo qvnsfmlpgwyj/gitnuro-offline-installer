@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Gitnuro Free Installer** — Gitnuro is a free, open-source, cross-platform Git client with a modern visual interface built with Kotlin Compose. Works without internet access, no account required. Full offline installation.
+**💻 Gitnuro Free Installer** — Gitnuro is a free, open-source, cross-platform Git client built with Compose Multiplatform for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Gitnuro
 
-Gitnuro is a free, open-source, cross-platform Git client with a modern visual interface built with Kotlin Compose. It provides a visual commit graph, conflict resolution, and standard Git operations in a lightweight application.
+Gitnuro is a free, open-source, cross-platform Git client built with Compose Multiplatform for Windows, macOS, and Linux. Features a visual commit graph, file diff viewer, and support for common Git operations. As a community-driven project targeting all major platforms, Gitnuro provides a modern, open-source alternative to commercial Git clients without licensing restrictions.
 
 ---
 
 ## ❌ Problem: Gitnuro is hard to access
 
-- **Early Development** — Feature set still maturing compared to established clients
-- **Small Community** — Limited documentation and user resources
-- **Performance** — JVM startup time visible on older hardware
-- **Limited Integrations** — No built-in GitHub, GitLab, or Bitbucket PR management
+- **Early Stage** — Newer project with features still being developed
+- **Community Size** — Smaller user base and fewer resources than established Git clients
+- **Feature Completeness** — Some advanced Git features not yet implemented
+- **Performance** — Compose Multiplatform rendering slightly less native than platform-specific clients
 
 ---
 
@@ -121,7 +121,7 @@ Gitnuro is a free, open-source, cross-platform Git client with a modern visual i
 
 ---
 
-**Gitnuro Free Installer** — Gitnuro is a free, open-source, cross-platform Git client with a modern visual interface built with Kotlin Compose. Install without internet connection today!
+**Gitnuro Free Installer** — Gitnuro is a free, open-source, cross-platform Git client built with Compose Multiplatform for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
